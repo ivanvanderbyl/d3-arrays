@@ -15,8 +15,7 @@
     "name": "Mike Bostock",
     "url": "http://bost.ocks.org/mike"
   },
-  "main": "index",
-  "jsnext:main": "index",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/d3/d3-arrays.git"

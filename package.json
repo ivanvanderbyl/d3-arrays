@@ -15,7 +15,7 @@
     "name": "Mike Bostock",
     "url": "http://bost.ocks.org/mike"
   },
-  "main": "build/arrays",
+  "main": "index",
   "jsnext:main": "index",
   "repository": {
     "type": "git",
